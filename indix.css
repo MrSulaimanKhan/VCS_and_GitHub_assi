@@ -1,0 +1,123 @@
+/* About Assignment */
+.about_assign{
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 4px 1px,
+    rgba(0, 0, 0, 0.3) 1px 7px 5px,
+    rgba(0, 0, 0, 0.2) 2px -1px 3px,
+    rgba(0, 0, 0, 0.2) -2px 2px 3px;
+}
+.about_assign h1{
+    color: #200239;
+    padding: 10px;
+    text-align: center;
+    margin-top: auto;
+    background-color: rgb(173, 255, 143);
+    border-radius: 70px;
+}
+#Assign_name{
+    margin: auto;
+    width: 1000px;
+    font-family: Cooper Black;
+    text-align: center;
+    color: #58FF7B;
+    background-color: #1c0230;
+    border: 7px solid #a7fc61 ;
+    border-radius: 10px;
+    box-shadow: -3px 3px 1px rgba(57, 221, 57, 0.993),
+    -6px 6px 1px rgba(49, 148, 48, 0.792),
+    -8px 8px 1px rgba(26, 104, 25, 0.426),
+    -10px 10px 1px rgba(33, 54, 6, 0.274),
+    -12px 12px 2px rgba(6, 47, 6, 0.105),
+    -14px 14px 3px rgba(3, 22, 3, 0.076);
+}
+#div1_h2{
+    text-align: center;
+    font-size: 25px;
+}
+#list_1{
+    font-size: 22px;
+    font-family: Monotype Corsiva;
+}
+hr{
+    margin: auto;
+    width: 1000px;
+    height: 7px;
+    border-radius: 10px;
+    background-color: #373637c3;
+}
+
+/* Project */
+#pro_h1{
+    font-size: 23px;
+    font-family: cooper;
+    text-align: center;
+    margin: auto;
+    border-radius: 30px;
+    width: 500px;
+    height: 60px;
+    background-color: rgb(173, 255, 143);
+}
+
+#main{
+    margin: auto;
+    width: 1000px;
+    height: 450px;
+    background-color: #f4dfffcf;
+    border: 4px solid grey;
+    border-radius: 10px;
+
+}
+#main h2{
+    font-size: 25px;
+}
+#main pre{
+    font-size: 20px;
+    font-family: Lucida Calligraphy;
+}
+.nes_main{
+    float: left;
+    margin-left: 20px;
+    width: 465px;
+    height: 405px;
+    border-right: 2px solid blue;
+    border-left: 2px solid blue;
+    border-radius: 10px;
+}
+.nes_main h2{
+    margin-left: 10px;
+}
+#img1{
+    margin: auto;
+    margin-top: 5px;
+    width: 450;
+    height: 190;
+    
+}
+#img1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+#img2_3{
+    margin: auto;
+    margin-top: 10px;
+    width: 450;
+    height: 190;
+}
+.img2_3{
+    float: left;
+    margin: auto;
+    margin-left: 5px;
+    padding: 1px;
+    width: 215px;
+    height: 190px;
+}
+.img2_3 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
