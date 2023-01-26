@@ -49,7 +49,6 @@ hr{
     border-radius: 10px;
     background-color: #373637c3;
 }
-
 /* Project */
 #pro_h1{
     font-size: 23px;
@@ -61,7 +60,6 @@ hr{
     height: 60px;
     background-color: rgb(173, 255, 143);
 }
-
 #main{
     margin: auto;
     width: 1000px;
@@ -119,5 +117,56 @@ hr{
 .img2_3 img{
     width: 100%;
     height: 100%;
+    object-fit: cover;
+}
+/* second commit */
+#sec_com{
+    background-color: #1c0230;
+    border-radius: 5px;
+    color: #58FF7B;
+    text-align: center;
+    font-size: 30px;
+}
+#img_main{
+    margin: auto;
+    width: 97%;
+    padding: 10px;
+    height: 460px;
+    background-color: #58FF7B;
+    border-radius: 10px;
+}
+.block1{
+    float: left;
+    margin-left: 20px;
+    width: 31%;
+    height: 250px;
+    border-radius: 10px;
+}
+.block1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+#img_contant{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 31%;
+    height: 200;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+#img_contant h3{
+    font-size: 25px;
+    margin-left: 5px;
+    font-family: Harlow Solid;
+    text-align: center;
+}
+#img_contant p{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Monotype Corsiva;
     object-fit: cover;
 }
