@@ -156,6 +156,7 @@ hr{
     height: 200;
     background-color: aliceblue;
     border-radius: 10px;
+    box-shadow: -2px 2px 5px rgb(52, 50, 50);
 }
 #img_contant h3{
     font-size: 25px;
@@ -169,4 +170,22 @@ hr{
     margin-right: 10px;
     font-family: Monotype Corsiva;
     object-fit: cover;
+}
+/* therd commit */
+.my_pic{
+    margin:30px auto;
+    padding: 10px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+
+    box-shadow: 0px 0px 15px rgba(51, 50, 50, 0.492),
+    -0px 0px 15px  rgba(51, 50, 50, 0.446);
+}
+.my_pic img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
 }
